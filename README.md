@@ -225,7 +225,7 @@ Pay-per-request services that handle proxies, browsers, and anti-bot for you.
 
 | Service | Best For | Key Feature |
 |---------|----------|-------------|
-| [Apify](https://apify.com/) | Full-stack platform | Marketplace of pre-built Actors plus Crawlee-based development and managed execution. |
+| [Apify](https://www.apify.com/?fpr=3nr7v8) | Full-stack platform | Marketplace of pre-built Actors plus Crawlee-based development and managed execution. |
 | [ScrapingBee](https://www.scrapingbee.com?fpr=edward77) | Simple API access | JavaScript rendering, screenshots, and search APIs. |
 | [ZenRows](https://www.zenrows.com/) | Anti-bot bypass | Managed scraping API with browser rendering and proxy rotation. |
 | [ScrapFly](https://scrapfly.io/) | Multi-API | Scraping, screenshots, extraction, and crawler APIs. |
@@ -235,6 +235,9 @@ Pay-per-request services that handle proxies, browsers, and anti-bot for you.
 | [Bright Data](https://brightdata.com/products/web-unlocker) | Scale | Web Unlocker with CAPTCHA solving, geo-routing, mobile UA. |
 | [SerpApi](https://serpapi.com/) | SERP data | Structured results from Google, Bing, Yahoo. |
 | [ScraperAPI](https://www.scraperapi.com/?fp_ref=edward66) | Getting started | Proxy rotation, browser rendering, and structured scraping endpoints. |
+| [Firecrawl Cloud](https://firecrawl.link/PzR7fd7) | LLM-ready output | Hosted Firecrawl: scrape, crawl, map, and search endpoints that return clean markdown or JSON. |
+| [Browse AI](https://partners.browse.ai/72ax5sc1epaz) | No-code monitoring | Point-and-click robots that extract and monitor website data on a schedule. |
+| [DataForSEO](https://dataforseo.com/?aff=255379) | SEO and SERP data | Pay-as-you-go APIs for SERPs, keywords, backlinks, and on-page data. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -253,7 +256,7 @@ Pay-per-request services that handle proxies, browsers, and anti-bot for you.
 
 | Provider | Coverage | Pricing | Highlights |
 |----------|-------------|---------------|------------|
-| [Bright Data](https://brightdata.com/) | Residential, ISP, mobile, and datacenter proxies | Pay-as-you-go | Broad proxy and web-data product portfolio with geographic targeting. |
+| [Bright Data](https://get.brightdata.com/tsf6w05nyw3n) | Residential, ISP, mobile, and datacenter proxies | Pay-as-you-go | Broad proxy and web-data product portfolio with geographic targeting. |
 | [Oxylabs](https://oxylabs.io/) | Residential, ISP, mobile, and datacenter proxies | Contact sales | Enterprise proxy services with country, city, and ZIP targeting options. |
 | [Decodo](https://decodo.com/) | Residential, ISP, mobile, and datacenter proxies | Published plans | Geographic targeting and rotating or sticky sessions. |
 | [IPRoyal](https://iproyal.com/) | Residential, ISP, mobile, and datacenter proxies | Published plans | Proxy services with geographic targeting and pay-as-you-go options. |
@@ -271,6 +274,8 @@ Pay-per-request services that handle proxies, browsers, and anti-bot for you.
 | [Webshare](https://www.webshare.io/?referral_code=petnjy3bdxeh) | Limited free tier; check current terms | [Start free →](https://www.webshare.io/?referral_code=petnjy3bdxeh) |
 | [2Captcha](https://2captcha.com/auth/register/?from=27588755) | Promotional terms vary | [View offer →](https://2captcha.com/auth/register/?from=27588755) |
 | [NetNut](https://netnut.io?ref=mzjimtc) | Trial availability varies | [Request trial →](https://netnut.io?ref=mzjimtc) |
+| [Apify](https://www.apify.com/?fpr=3nr7v8) | Free plan with monthly credits; check current terms | [Start free →](https://www.apify.com/?fpr=3nr7v8) |
+| [Firecrawl Cloud](https://firecrawl.link/PzR7fd7) | Free credits; check current terms | [Start free →](https://firecrawl.link/PzR7fd7) |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -299,12 +304,6 @@ Pay-per-request services that handle proxies, browsers, and anti-bot for you.
 
 ---
 
-## Disclosure
-
-Some links in the Managed Scraping APIs, CAPTCHA Solving, Proxy Providers, and Try Free sections are affiliate/referral links. These help support the maintenance of this list. All tools are included based on merit. Affiliate status does not influence placement or rankings.
-
-<p align="right">(<a href="#readme">⬆ back to top</a>)</p>
-
 ## 🔗 Related Awesome Lists
 
 | List | Description |
@@ -326,3 +325,5 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 
 To the extent possible under law, [Edward Tay](https://github.com/edwardtay) has waived all copyright and related or neighboring rights to this work.
+
+<sub>Some links are referral links.</sub>
